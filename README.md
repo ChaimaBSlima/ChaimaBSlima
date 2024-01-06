@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaima</h1>
 <h3 align="center">A passionate Machine Learning Developer from Tunisia</h3>
 
-<img align="right" alt="Coding" width="400" src="
-![dee96872a530f27128411930f55db3df](https://github.com/ChaimaBSlima/ChaimaBSlima/assets/146720036/65eef467-6328-4b6d-8099-15a211073570)">
+![dee96872a530f27128411930f55db3df](https://github.com/ChaimaBSlima/ChaimaBSlima/assets/146720036/65eef467-6328-4b6d-8099-15a211073570)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimabslima&label=Profile%20views&color=0e75b6&style=flat" alt="chaimabslima" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaimabslima" alt="chaimabslima" /></a> </p>
