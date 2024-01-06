@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaima</h1>
 <h3 align="center">A passionate Machine Learning Developer from Tunisia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://ibb.co/NrscVQS">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/017/294/130/non_2x/continuous-one-line-drawing-happy-girl-kid-programmer-showing-programming-code-the-laptop-on-her-hand-programming-code-concept-single-line-draw-design-graphic-illustration-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimabslima&label=Profile%20views&color=0e75b6&style=flat" alt="chaimabslima" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaimabslima" alt="chaimabslima" /></a> </p>
