@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chaimabslima@outlook.fr**
 
-- ⚡ Fun fact **I love coding and I hate it when the code don't work xD**
+- ⚡ Fun fact **I love coding and I hate it when the code dosen't work xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
