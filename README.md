@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/017/294/130/non_2x/continuous-one-line-drawing-happy-girl-kid-programmer-showing-programming-code-the-laptop-on-her-hand-programming-code-concept-single-line-draw-design-graphic-illustration-vector.jpg">
 
-- 🌱 I’m currently learning **C Low-Level Programming Language**
+- 🌱 I’m currently learning **Python High-Level Programming Language**
 
 - 💬 Ask me about **C, Artificial Intelligence, Python, Arduino**
 
