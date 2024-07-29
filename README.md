@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaima</h1>
 <h3 align="center">A passionate Machine Learning Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="![dee96872a530f27128411930f55db3df](https://github.com/user-attachments/assets/60885010-ede4-4c72-a399-34beb20eb013) ">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/60885010-ede4-4c72-a399-34beb20eb013">
 
 - 🌱 I’m currently learning **Python High-Level Programming Language**
 
