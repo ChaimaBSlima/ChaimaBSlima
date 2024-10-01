@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Machine Learning Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/60885010-ede4-4c72-a399-34beb20eb013">
 
-- 🌱 I’m currently learning **Python High-Level Programming Language**
+- 🌱 I’m currently learning **Machine Learning Projects **
 
-- 💬 Ask me about **C, Artificial Intelligence, Python, Arduino**
+- 💬 Ask me about ** Machine Learning, Python **
 
-- 📫 How to reach me **chaimabslima@outlook.fr**
+- 📫 How to reach me **7689@holbertonstudents.com**
 
 - ⚡ Fun fact **I love coding and I hate it when the code dosen't work xD**
 
