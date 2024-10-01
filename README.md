@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Machine Learning Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/60885010-ede4-4c72-a399-34beb20eb013">
 
-- 🌱 I’m currently learning **Machine Learning Projects **
+- 🌱 I’m currently learning **Machine Learning Projects**
 
-- 💬 Ask me about ** Machine Learning, Python **
+- 💬 Ask me about **Machine Learning, Python**
 
 - 📫 How to reach me **7689@holbertonstudents.com**
 
